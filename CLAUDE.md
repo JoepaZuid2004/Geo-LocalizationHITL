@@ -1,13 +1,13 @@
 # Geo-LocalizationHITL
 
-A model-agnostic, human-in-the-loop (HITL) tool that helps investigative and OSINT journalists find or verify where an image was taken. MSc thesis project (GIMA). The goal is transparent, defensible verification, not maximum benchmark accuracy.
+A model-agnostic, human-in-the-loop (HITL) tool that helps investigative and OSINT journalists find or verify where an image was taken. MSc thesis project (GIMA). The goal is transparent, local, and defensible verification, not maximum benchmark accuracy.
 
 Status: early design, nothing implemented yet. Build one component at a time when asked; don't scaffold the whole structure at once.
 
 ## How we work together
 - I'm a student and want to understand every line and every structural choice. Prefer simple, readable code over clever code.
 - Before changes across several files, explain the plan and wait for my go.
-- When I ask *how* to do something, explain and give hints instead of editing files, unless I explicitly ask you to implement it.
+- When I ask how to do something, explain and give hints instead of editing files, unless I explicitly ask you to implement it.
 - When you introduce a concept, library or pattern I may not know, explain it in 1–2 sentences.
 - Comments explain *why*, not *what*.
 - Challenge my design: if you see a better approach or a problem, say so before implementing.
